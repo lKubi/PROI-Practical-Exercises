@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1664382824 source:c:\users\alumno\music\luis\practica5_ejercicio3\functions.cpp
+	<cmath>
+
+1664383457 source:c:\users\alumno\music\luis\practica5_ejercicio3\main.cpp
+	<iostream>
+	"functions.h"
+
+1664383384 c:\users\alumno\music\luis\practica5_ejercicio3\functions.h
+

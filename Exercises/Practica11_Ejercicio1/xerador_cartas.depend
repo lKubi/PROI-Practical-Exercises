@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603350400 source:/home/anton/ESEI/docencia/PROI/curso2020_21/material/practicas/clase9/exercicios/xerador_cartas/main.cpp
+	<iostream>
+	<stdlib.h>
+
+1603351108 source:/home/anton/ESEI/docencia/PROI/curso2020_21/material/practicas/clase10/exercicios/paraBoletin/xerador_cartas/main.cpp
+	<iostream>
+	<stdlib.h>
+
+1666368468 source:c:\users\alumno\music\luis\practica11_ejercicio1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+

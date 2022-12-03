@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666193259 source:c:\users\alumno\music\luis\practica10_ejercicio6\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666975079 source:c:\users\alumno\music\luis\practica13_ejercicio1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

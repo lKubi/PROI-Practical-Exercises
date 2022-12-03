@@ -1,2 +1,2 @@
 # Practical-PROI-exercises
- Practical exercises in C++ in the subject of PROI
+ Practical exercises in C++ in PROI 

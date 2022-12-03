@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664555495 source:c:\users\alumno\music\luis\practica6_ejercicio6\functions.cpp
+
+1664556822 source:c:\users\alumno\music\luis\practica6_ejercicio6\main.cpp
+	<iostream>
+	"functions.h"
+
+1664555609 c:\users\alumno\music\luis\practica6_ejercicio6\functions.h
+
